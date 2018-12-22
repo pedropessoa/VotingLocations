@@ -2,7 +2,7 @@
 
 Repository created for the final project in ECON 628. 
 
-VotingLocations.ipynb describes the project and performs the geocoding.
+VotingLocations.ipynb describes the project and performs the geocoding (using original dataset DeParaSecoes_2Turno.xls with the addresses).
 
 PollsPlotting.R uses the coordinates that I obtain to plot the polling stations in a map.
 
